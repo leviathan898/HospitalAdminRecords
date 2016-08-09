@@ -1,0 +1,70 @@
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe.config
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.pdb
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csprojResolveAssemblyReference.cache
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Form1.resources
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.PatientRecords.resources
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Properties.Resources.resources
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.StaffRecords.resources
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csproj.GenerateResource.Cache
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.exe
+E:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.pdb
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe.config
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.exe
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.pdb
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe.config
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.exe
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.pdb
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.pdb
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csprojResolveAssemblyReference.cache
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Form1.resources
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.PatientRecords.resources
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Properties.Resources.resources
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.StaffRecords.resources
+P:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csproj.GenerateResource.Cache
+V:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe.config
+V:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.exe
+V:\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.pdb
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe.config
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.exe
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.pdb
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe.config
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.exe
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.pdb
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csprojResolveAssemblyReference.cache
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Form1.resources
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.PatientRecords.resources
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Properties.Resources.resources
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.StaffRecords.resources
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csproj.GenerateResource.Cache
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe
+C:\Users\AndyCheung\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.pdb
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.pdb
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csprojResolveAssemblyReference.cache
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Form1.resources
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.PatientRecords.resources
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Properties.Resources.resources
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.StaffRecords.resources
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csproj.GenerateResource.Cache
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.pdb
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csprojResolveAssemblyReference.cache
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Form1.resources
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.PatientRecords.resources
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Properties.Resources.resources
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.StaffRecords.resources
+V:\SOFTWARE DEVO\OOP\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csproj.GenerateResource.Cache
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe.config
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.exe
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.pdb
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.exe
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\bin\Debug\andyCheung_B8IT117.pdb
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csprojResolveAssemblyReference.cache
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Form1.resources
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.PatientRecords.resources
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.Properties.Resources.resources
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.StaffRecords.resources
+C:\Users\10341527\Documents\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.csproj.GenerateResource.Cache
+C:\Users\10341527\Desktop\andyCheung_B8IT117\andyCheung_B8IT117\obj\Debug\andyCheung_B8IT117.LogIn.resources
